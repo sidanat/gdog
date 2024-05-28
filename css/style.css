@@ -24,10 +24,16 @@
 
 .profile-img {
   height: 200px;
-  border-radius: 25%;
+  border-radius: 50%;
 }
 
 .company  {
 
   height: 35px;
+}
+
+.reggie {
+
+  height: 80vh;
+  border-radius: 5%;
 }
